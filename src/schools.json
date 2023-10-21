@@ -1,0 +1,490 @@
+[
+  {
+    "SchoolName": "ABAA Bug O Nay Ge Shig",
+    "Addresses": "15353 Silver Eagle Dr NW, Bena, MN 56626",
+    "Latitude": 47.3609274,
+    "Longitude": -94.3068295,
+    "URL": "http://www.bugonaygeshig.org/",
+    "Region": "Northwest Region"
+  },
+  {
+    "SchoolName": "ACGC Alternative School",
+    "Addresses": "27250 MN-4, Grove City, MN 56243",
+    "Latitude": 45.1426636,
+    "Longitude": -94.6828226,
+    "URL": "",
+    "Region": "West Central"
+  },
+  {
+    "SchoolName": "Aitkin Alternative Program",
+    "Addresses": "12 7th Ave NW, Aitkin, MN 56431",
+    "Latitude": 46.5319928,
+    "Longitude": -93.716927,
+    "URL": "http://home.isd1.org/alternative-school.html",
+    "Region": "Northeast Region"
+  },
+  {
+    "SchoolName": "Albert Lea Area Learning Center",
+    "Addresses": "211 W Richway Drive, Albert Lea, MN 56007",
+    "Latitude": 43.6636168,
+    "Longitude": -93.3718018,
+    "URL": "http://albertlea.k12.mn.us/high-school/area-learning-center",
+    "Region": "Southeast Region"
+  },
+  {
+    "SchoolName": "Arcadia Charter School (Northfield)",
+    "Addresses": "1719 Cannon Rd, Northfield, MN 55057",
+    "Latitude": 44.4395879,
+    "Longitude": -93.1849483,
+    "URL": "https://arcadiacharterschool.org/",
+    "Region": "Southeast Region"
+  },
+  {
+    "SchoolName": "Area Learning Center of Fergus Falls",
+    "Addresses": "502 Friberg Ave, Fergus Falls, MN 56537",
+    "Latitude": 46.2878551,
+    "Longitude": -96.0677204,
+    "URL": "https://www.fergusotters.org/schools-blogs/area-learning-center-9-12",
+    "Region": "West Central"
+  },
+  {
+    "SchoolName": "Austin Area Learning Center",
+    "Addresses": "912 1st Ave NE, Austin, MN 55912",
+    "Latitude": 43.6673676,
+    "Longitude": -92.9631416,
+    "URL": "http://www.austin.k12.mn.us/alc",
+    "Region": "Southeast Region"
+  },
+  {
+    "SchoolName": "BEACON Alternative Learning Program (Bloomington)",
+    "Addresses": "9701 Nicollet Ave, Bloomington, MN 55420",
+    "Latitude": 44.8282861,
+    "Longitude": -93.2747094,
+    "URL": "http://www.bloomington.k12.mn.us/schools/alternative-learning-centers/beacon",
+    "Region": "Metro South"
+  },
+  {
+    "SchoolName": "Becker High School ALP",
+    "Addresses": "12000 Hancock St, Becker, MN 55308",
+    "Latitude": 45.3993348,
+    "Longitude": -93.8726662,
+    "URL": "",
+    "Region": "West Central"
+  },
+  {
+    "SchoolName": "Bemidji AEC",
+    "Addresses": "802 Paul Bunyan Dr SE, Bemidji, MN 56601",
+    "Latitude": 47.4635299,
+    "Longitude": -94.8704883,
+    "URL": "http://www.bemidji.k12.mn.us/AEC",
+    "Region": "Northwest Region"
+  },
+  {
+    "SchoolName": "Bemidji Area Schools - 21st Century CLC",
+    "Addresses": "802 Paul Bunyan Dr SE, Bemidji, MN 56601",
+    "Latitude": 47.4635299,
+    "Longitude": -94.8704883,
+    "URL": "http://www.bemidji.k12.mn.us/",
+    "Region": "Northwest Region"
+  },
+  {
+    "SchoolName": "Bemidji Middle School ALP",
+    "Addresses": "502 Minnesota Avenue NW, Bemidji, MN 56601",
+    "Latitude": 47.4728571,
+    "Longitude": -94.8823566,
+    "URL": "http://www.bemidji.k12.mn.us/aec/",
+    "Region": "Northwest Region"
+  },
+  {
+    "SchoolName": "Benson ALC",
+    "Addresses": "1400 Montana Ave, Benson, MN 56215",
+    "Latitude": 45.3200692,
+    "Longitude": -95.5981184,
+    "URL": "http://www.benson.k12.mn.us/schools/benson_high_school___grades_7_-_12_/a_l_c_home",
+    "Region": "West Central"
+  },
+  {
+    "SchoolName": "Bluff Country Learning Center (LaCrescent)",
+    "Addresses": "114 Main St, Hokah, MN 55941",
+    "Latitude": 43.7588706,
+    "Longitude": -91.3478476,
+    "URL": "https://www.facebook.com/pages/Bluff-Country-Learning-Center/1581119185488118",
+    "Region": "Southeast Region"
+  },
+  {
+    "SchoolName": "Bluffview Montessori School (Winona)",
+    "Addresses": "1321 Gilmore Ave, Winona, MN 55987",
+    "Latitude": 44.047564,
+    "Longitude": -91.6715104,
+    "URL": "http://www.bluffviewmontessori.org/",
+    "Region": "Southeast Region"
+  },
+  {
+    "SchoolName": "Bold Public Schools",
+    "Addresses": "701 9th St S, Olivia, MN 56277",
+    "Latitude": 44.769357,
+    "Longitude": -94.9881633,
+    "URL": "http://bold.k12.mn.us/",
+    "Region": "Southwest Region"
+  },
+  {
+    "SchoolName": "Border ALC",
+    "Addresses": "106 LINCOLN ST. SE Warroad, MD 56763",
+    "Latitude": 48.899809,
+    "Longitude": -95.3205648,
+    "URL": "",
+    "Region": "Northwest Region"
+  },
+  {
+    "SchoolName": "Brainerd Learning Center",
+    "Addresses": "311 10th Ave NE, Brainerd, MN 56401",
+    "Latitude": 46.3622941,
+    "Longitude": -94.1750544,
+    "URL": "http://brainerdlc.ss12.sharpschool.com/home",
+    "Region": "West Central"
+  },
+  {
+    "SchoolName": "Brainerd Middle Level Alternative Program",
+    "Addresses": "12149 Knollwood Dr, Baxter, MN 56425",
+    "Latitude": 46.3283464,
+    "Longitude": -94.2791283,
+    "URL": "http://brainerdlc.ss12.sharpschool.com/home",
+    "Region": "West Central"
+  },
+  {
+    "SchoolName": "Bridges Area Learning Center (Prior Lake)",
+    "Addresses": "15870 Fish Point Rd, Prior Lake, MN 55372",
+    "Latitude": 44.7176674,
+    "Longitude": -93.4050098,
+    "URL": "https://www.priorlake-savage.k12.mn.us/our-schools/bridges-area-learning",
+    "Region": "Metro South"
+  },
+  {
+    "SchoolName": "Burnsville Alternative High School / BES ALC",
+    "Addresses": "2140 Diffley Rd, Eagan, MN 55122",
+    "Latitude": 44.8056035,
+    "Longitude": -93.216499,
+    "URL": "http://www.isd191.org/schools/burnsville-alternative-high-school",
+    "Region": "Metro South"
+  },
+  {
+    "SchoolName": "Cannon Falls Alternative High School",
+    "Addresses": "120 W State St Cannon Falls, MN  55009-2093",
+    "Latitude": 44.51042,
+    "Longitude": -92.9024,
+    "URL": "https://www.schooldigger.com/go/MN/schools/9144304718/school.aspx",
+    "Region": "Southeast Region"
+  },
+  {
+    "SchoolName": "Cannon River STEM School (Faribault)",
+    "Addresses": "1800 14th St NE, Faribault, MN 55021",
+    "Latitude": 44.3117813,
+    "Longitude": -93.263824,
+    "URL": "http://cannonriverstemschool.org/",
+    "Region": "Southeast Region"
+  },
+  {
+    "SchoolName": "Cass Lake ALC",
+    "Addresses": "208 Central Ave, Cass Lake, MN 56633",
+    "Latitude": 47.3800019,
+    "Longitude": -94.6039473,
+    "URL": "http://www.clbs.k12.mn.us/",
+    "Region": "Northwest Region"
+  },
+  {
+    "SchoolName": "Central Lakes Adventure School",
+    "Addresses": "12763 County Road 1 SW, Pillager, MN 56473",
+    "Latitude": 46.3417888,
+    "Longitude": -94.485934,
+    "URL": "https://centrallakesadventureschool.org/",
+    "Region": "West Central"
+  },
+  {
+    "SchoolName": "CHOICE Alternative High School",
+    "Addresses": "8800 Queen Ave S Suite 318, Bloomington, MN 55431",
+    "Latitude": 44.8431277,
+    "Longitude": -93.3123906,
+    "URL": "https://ce.bloomington.k12.mn.us/choice-alternative-high-school",
+    "Region": "Metro South"
+  },
+  {
+    "SchoolName": "Cloquet AAEP",
+    "Addresses": "302 14th St, Cloquet, MN 55720",
+    "Latitude": 46.7174255,
+    "Longitude": -92.4484036,
+    "URL": "https://www.isd94.org/domain/17",
+    "Region": "Northeast Region"
+  },
+  {
+    "SchoolName": "Compass Learning Center",
+    "Addresses": "1234 Columbus Ave N, New Prague, MN 56071",
+    "Latitude": 44.5573618,
+    "Longitude": -93.575061,
+    "URL": "https://www.npaschools.org/alc",
+    "Region": "Metro South"
+  },
+  {
+    "SchoolName": "Crow River Area Learning Center",
+    "Addresses": "1200 Roberts Road SW, Hutchinson, MN 55350",
+    "Latitude": 44.8845267,
+    "Longitude": -94.392815,
+    "URL": "http://www.isd423.org/district/tailored-programs/crow-river-area-learning-center/",
+    "Region": "West Central"
+  },
+  {
+    "SchoolName": "Dakota County Area Learning School-DCALS",
+    "Addresses": "2120 Silver Bell Rd, Eagan, MN 55122",
+    "Latitude": 44.8178532,
+    "Longitude": -93.21714,
+    "URL": "http://www.isd917.k12.mn.us/for_students/Alternative%20Learning%20(DCALS)",
+    "Region": "Metro South"
+  },
+  {
+    "SchoolName": "Dassel-Cokato ALC",
+    "Addresses": "200 Century Ave, Cokato, MN 55321",
+    "Latitude": 45.0788236,
+    "Longitude": -94.1976167,
+    "URL": "http://alc.dc.k12.mn.us/",
+    "Region": "West Central"
+  },
+  {
+    "SchoolName": "Delano Public Schools",
+    "Addresses": "700 Elm Ave E, Delano, MN 55328",
+    "Latitude": 45.0443689,
+    "Longitude": -93.7793465,
+    "URL": "",
+    "Region": "West Central"
+  },
+  {
+    "SchoolName": "Detroit Lakes ALC",
+    "Addresses": "900 MN-34, Detroit Lakes, MN 56501",
+    "Latitude": 
+
+46.8263949,
+    "Longitude": -95.8329499,
+    "URL": "http://alc.dlschools.net/",
+    "Region": "Northwest Region"
+  },
+  {
+    "SchoolName": "Discovery Public School of Faribault",
+    "Addresses": "126 8th St NW, Faribault, MN 55021",
+    "Latitude": 44.2994554,
+    "Longitude": -93.2712116,
+    "URL": "http://www.isd4081.org/",
+    "Region": "Southeast Region"
+  },
+  {
+    "SchoolName": "Duluth Area Learning Center",
+    "Addresses": "11 E Superior St Suite 450, Duluth, MN 55802",
+    "Latitude": 46.7876494,
+    "Longitude": -92.0979108,
+    "URL": "https://www.isd709.org/area-learning-center/",
+    "Region": "Northeast Region"
+  },
+  {
+    "SchoolName": "E.C.H.O. Charter School",
+    "Addresses": "101 Rocket Ave, Echo, MN 56237",
+    "Latitude": 44.617944,
+    "Longitude": -95.4100724,
+    "URL": "http://www.echo.charter.k12.mn.us/",
+    "Region": "Southwest Region"
+  },
+  {
+    "SchoolName": "ECHS - ALC",
+    "Addresses": "61085 State Hwy 23, Finlayson, MN 55735",
+    "Latitude": 46.1818579,
+    "Longitude": -92.8417658,
+    "URL": "https://www.eastcentral.k12.mn.us/echs/alternative_learning_center",
+    "Region": "Northeast Region"
+  },
+  {
+    "SchoolName": "EdVisions Off Campus",
+    "Addresses": "Henderson, MN 56044",
+    "Latitude": 44.5282971,
+    "Longitude": -93.9077438,
+    "URL": "http://www.lovethisschool.org/",
+    "Region": "Southwest Region"
+  },
+  {
+    "SchoolName": "Faribault Area Learning Center",
+    "Addresses": "2855 1st Ave NW, Faribault, MN 55021",
+    "Latitude": 44.3206504,
+    "Longitude": -93.270072,
+    "URL": "http://alc.faribault.k12.mn.us/",
+    "Region": "Southeast Region"
+  },
+  {
+    "SchoolName": "Fergus Falls ALC",
+    "Addresses": "2855 1st Ave NW, Faribault, MN 55021",
+    "Latitude": 44.3206504,
+    "Longitude": -93.270072,
+    "URL": "https://www.fergusotters.org/schools-blogs/area-learning-center-9-12",
+    "Region": "West Central"
+  },
+  {
+    "SchoolName": "Foley Alternative High School",
+    "Addresses": "621 Penn St, Foley, MN 56329",
+    "Latitude": 45.669566,
+    "Longitude": -93.9103344,
+    "URL": "http://www.foley.k12.mn.us/page/2537",
+    "Region": "West Central"
+  },
+  {
+    "SchoolName": "Freshwater ALC",
+    "Addresses": "1830 Airport Rd, Staples, MN 56479",
+    "Latitude": 46.3891779,
+    "Longitude": -94.7977846,
+    "URL": "https://www.fed.k12.mn.us/Page/47",
+    "Region": "West Central"
+  },
+  {
+    "SchoolName": "Freshwater ALC Long Prairie",
+    "Addresses": "308 1st St S, Long Prairie, MN 56347",
+    "Latitude": 45.9704209,
+    "Longitude": -94.8634715,
+    "URL": "https://www.fed.k12.mn.us/Page/66",
+    "Region": "West Central"
+  },
+  {
+    "SchoolName": "Freshwater Education District - Menahga ALC",
+    "Addresses": "216 Aspen Ave SE, Menahga, MN 56464",
+    "Latitude": 46.7519624,
+    "Longitude": -95.0939325,
+    "URL": "https://www.fed.k12.mn.us/Page/71",
+    "Region": "West Central"
+  },
+  {
+    "SchoolName": "Freshwater Education District - Pillager ALC",
+    "Addresses": "323 East 2nd Street South, Pillager, MN 56473",
+    "Latitude": 46.3272676,
+    "Longitude": -94.4718909,
+    "URL": "https://www.fed.k12.mn.us/Page/58",
+    "Region": "West Central"
+  },
+  {
+    "SchoolName": "Freshwater Education District - Staples ALC",
+    "Addresses": "1830 Airport Road Suite 2, Staples, MN 56479",
+    "Latitude": 46.3891779,
+    "Longitude": -94.7977846,
+    "URL": "https://www.fed.k12.mn.us/Page/53",
+    "Region": "West Central"
+  },
+  {
+    "SchoolName": "Freshwater Education District - Wadena ALC",
+    "Addresses": "624 Jefferson Street North, Wadena, MN 56482",
+    "Latitude": 46.44651,
+    "Longitude": -95.130831,
+    "URL": "https://www.fed.k12.mn.us/Page/249",
+    "Region": "West Central"
+  },
+  {
+    "SchoolName": "GFW High School",
+    "Addresses": "1001 Cottonwood St, Winthrop, MN 55396",
+    "Latitude": 44.5436453,
+    "Longitude": -94.3671119,
+    "URL": "http://www.gfw.k12.mn.us/",
+    "Region": "Southwest Region"
+  },
+  {
+    "SchoolName": "Goodhue County Education District Area Learning Center",
+    "Addresses": "395 Guernsey Ln, Red Wing, MN 55066",
+    "Latitude": 44.536811,
+    "Longitude": -92.5171628,
+    "URL": "http://redwing.k12.mn.us/page/2871",
+    "Region": "Southeast Region"
+  },
+  {
+    "SchoolName": "Grand Rapids Area Learning Center",
+    "Addresses": "413 SE 13th St suite b, Grand Rapids, MN 55744",
+    "Latitude": 47.218074,
+    "Longitude": -93.5211206,
+    "URL": "https://www.isd318.org/ALC",
+    "Region": "Northeast Region"
+  },
+  {
+    "SchoolName": "Guy Kokesh ALC",
+    "Addresses": "807 Main St, Onamia, MN 56359",
+    "Latitude": 46.0758092,
+    "Longitude": -93.7716716,
+    "URL": "http://www.onamia.k12.mn.us/",
+    "Region": "Central Region"
+  },
+  {
+    "SchoolName": "Hastings High School ALC",
+    "Addresses": "200 General Sieben Dr, Hastings, MN 55033",
+    "Latitude": 44.7328337,
+    "Longitude": -92.8716986,
+    "URL": "http://hs.hastings.k12.mn.us/hs/alc",
+    "Region": "Southeast Region"
+  },
+  {
+    "SchoolName": "Hawley Secondary",
+    "Addresses": "710 Joseph St S, Hawley, MN 56549",
+    "Latitude": 46.8684001,
+    "Longitude": -96.3140196,
+    "URL": "http://www.hawley.k12.mn.us/",
+    "Region": "Northwest Region"
+  },
+  {
+    "SchoolName": "Heron Lake-Okabena Learning Center",
+    "Addresses": "324 8th St, Heron Lake, MN 56137",
+    "Latitude": 43.6147341,
+    "Longitude": -95.3089242,
+    "URL": "http://www.heronlake-okabenaschools.com/schools/hloh/what-is-alc/alc-staff",
+    "Region": "Southwest Region"
+  },
+  {
+    "SchoolName": "Hmong College Prep Academy",
+    "Addresses": "1515 Brewster St, St Paul, MN 55108",
+    "Latitude": 44.9667526,
+    "Longitude": -93.170445,
+    "URL": "https://www.hcpak12.org/alc",
+    "Region": "Metro North"
+  },
+  {
+    "SchoolName": "Howard Lake-Waverly-Winsted High School",
+    "Addresses": "8700 County Road 6 SW, Howard Lake, MN 55349",
+    "Latitude": 45.0609447,
+    "Longitude": -94.0728589,
+    "URL": "http://www.hlww.k12.mn.us/",
+    "Region": "West Central"
+  },
+  {
+    "SchoolName": "Humboldt Secondary",
+    "Addresses": "30 Baker St E, St Paul, MN 55107",
+    "Latitude": 44.9318992,
+    "Longitude": -93.0758333,
+    "URL": "http://humboldtspps.weebly.com/",
+    "Region": "Metro North"
+  },
+  {
+    "SchoolName": "Hutchinson Area Learning Center",
+    "Addresses": "1060 5th Ave SE, Hutchinson, MN 55350",
+    "Latitude": 44.8834245,
+    "Longitude": -94.3718982,
+    "URL": "http://www.isd423.org/district/tailored-programs/crow-river-area-learning-center/",
+    "Region": "West Central"
+  },
+  {
+    "SchoolName": "Hutchinson Charter School",
+    "Addresses": "151 3rd Ave SE, Hutchinson, MN 55350",
+    "Latitude": 44.8884116,
+    "Longitude": -94.3645386,
+    "URL": "http://hutchcharter.org/",
+    "Region": "West Central"
+  },
+  {
+    "SchoolName": "Inver Grove Heights Family Center",
+    "Addresses": "3203 68th St E, Inver Grove Heights, MN 55076",
+    "Latitude": 44.8380315,
+    "Longitude": -93.0453845,
+    "URL": "https://www.invergrove.k12.mn.us/",
+    "Region": "Metro South"
+  },
+  {
+    "SchoolName": "Kelliher ALC",
+    "Addresses": "504 5th St NW, Kelliher, MN 56650",
+    "Latitude": 47.9579664,
+    "Longitude": -94.9013077,
+    "URL": "http://www.kelliher.k12.mn.us/schools/kelliher_public_school_-_6-12"
+  }]
